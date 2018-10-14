@@ -3,6 +3,5 @@ class Cat
 end
 
 def meow
-  @name.meow
   puts "meow!"
 end
